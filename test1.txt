@@ -1,0 +1,15 @@
+This is a test file.
+The question is ... will it work as anticipated.
+
+I want to make a text file and push it to a github repo
+
+then edit the file in github and pull it
+
+let's see
+
+made the file
+now saving it
+
+now opening the github package and toggling the git tab on
+
+press "create repository" in the tab.
