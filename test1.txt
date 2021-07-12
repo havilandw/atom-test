@@ -13,3 +13,8 @@ now saving it
 now opening the github package and toggling the git tab on
 
 press "create repository" in the tab.
+
+
+that seemed to be ok -- except that it did not commit to master
+
+let's try that again
